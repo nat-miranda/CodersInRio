@@ -1,0 +1,35 @@
+﻿@model Projeto.Presentation.Models.EstoqueCadastroViewModel
+@{
+    ViewBag.Title = "Cadastro";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+<h2>Cadastro de Estoques</h2>
+
+@using ((Html.BeginForm("CadastrarEstoque", "Estoque", FormMethod.Post)))
+{
+    <label>Nome do Estoque:</label>
+    @Html.TextBoxFor(model => model.Nome,  new { @class = "form-control col-md-4", placeholder = "Digite aqui" })
+    <div id="mensagemErro" class="text-danger">
+        @Html.ValidationMessageFor(model => model.Nome)
+        
+        
+      
+        
+    </div>
+    <br />
+
+    <input type="submit" id="buttoncreate" value="Cadastrar Estoque" 
+           class="btn btn-success"/>
+
+    <br />
+    <br />
+    
+    <strong>@ViewBag.Mensagem</strong>
+
+}
+
+
+
+
+
