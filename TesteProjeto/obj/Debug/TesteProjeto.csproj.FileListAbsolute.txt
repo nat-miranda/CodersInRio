@@ -1,0 +1,17 @@
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\bin\Debug\TesteProjeto.dll
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\bin\Debug\TesteProjeto.pdb
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\bin\Debug\WebDriver.Support.dll
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\bin\Debug\WebDriver.dll
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\obj\Debug\TesteProjeto.csprojAssemblyReference.cache
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\obj\Debug\TesteProjeto.csproj.CoreCompileInputs.cache
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\obj\Debug\TesteProjeto.csproj.CopyComplete
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\obj\Debug\TesteProjeto.dll
+C:\Users\natal\source\repos\TesteProjeto\TesteProjeto\obj\Debug\TesteProjeto.pdb
